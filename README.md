@@ -1,2 +1,2 @@
-# section40-reset
+# section6.midway
 Created with CodeSandbox
